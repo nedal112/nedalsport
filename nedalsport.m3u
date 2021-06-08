@@ -1,25 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN Sports Max 1ⓧ HD" tvg-logo="" group-title="BEIN SPORTS MAX",|AR.BEIN| beIN Sports Max 1ⓧ HD
-http://goldhd.golffan.us:8000/OTTKING/k7yWYciarC/11674
-#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN Sports Max 2 ⓧ HD" tvg-logo="" group-title="BEIN SPORTS MAX",|AR.BEIN| beIN Sports Max 2 ⓧ HD
-http://goldhd.golffan.us:8000/OTTKING/k7yWYciarC/11675
-#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN Sports Max 3 ⓧ HD" tvg-logo="" group-title="BEIN SPORTS MAX",|AR.BEIN| beIN Sports Max 3 ⓧ HD
-http://goldhd.golffan.us:8000/OTTKING/k7yWYciarC/11676
-#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN Sports Max 4 ⓧ HD" tvg-logo="" group-title="BEIN SPORTS MAX",|AR.BEIN| beIN Sports Max 4 ⓧ HD
-http://goldhd.golffan.us:8000/OTTKING/k7yWYciarC/11677
-
-#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| Bein sport 1 Premium HD" tvg-logo="" group-title="BEIN SPORTS Premium",|AR.BEIN| Bein sport 1 Premium HD
-http://goldhd.golffan.us:8000/OTTKING/k7yWYciarC/5042
-#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| Bein sport 2 Premium HD  " tvg-logo="" group-title="BEIN SPORTS Premium",|AR.BEIN| Bein sport 2 Premium HD  
-http://goldhd.golffan.us:8000/OTTKING/k7yWYciarC/5043
-#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| Bein sport 3 Premium HD" tvg-logo="" group-title="BEIN SPORTS Premium",|AR.BEIN| Bein sport 3 Premium HD
-http://goldhd.golffan.us:8000/OTTKING/k7yWYciarC/5044
-#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN SPORTS 1 Premium HEVC" tvg-logo="" group-title="BEIN SPORTS Premium",|AR.BEIN| beIN SPORTS 1 Premium HEVC
-http://goldhd.golffan.us:8000/OTTKING/k7yWYciarC/5045
-#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN SPORTS 2 Premium HEVC" tvg-logo="" group-title="BEIN SPORTS Premium",|AR.BEIN| beIN SPORTS 2 Premium HEVC
-http://goldhd.golffan.us:8000/OTTKING/k7yWYciarC/5046
-#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN SPORTS 3 Premium HEVC" tvg-logo="" group-title="BEIN SPORTS Premium",|AR.BEIN| beIN SPORTS 3 Premium HEVC
-http://goldhd.golffan.us:8000/OTTKING/k7yWYciarC/5047
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA beIN Sports 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="Best of Sports",QA beIN Sports 1 FHD
 http://iptvtree.net:8080/alinhotfc/2b098cdf80/386
